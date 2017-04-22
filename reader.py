@@ -15,8 +15,6 @@ from torch.autograd import Variable
 import util
 
 log = logging.getLogger(__name__)
-
-# create a file handler
 handler = logging.StreamHandler()
 handler.setLevel(logging.INFO)
 
@@ -40,7 +38,7 @@ WORD_BLACKLIST = set(['b', 'c', 'd', 'e', 'f', 'g', 'h', 'j', 'k', 'l', 'm', 'n'
                       'o', 'p', 'q', 'r', 's', 't', 'u', 'v', 'w', 'x', 'y', 'z',
                       'ed', 'ing', 'er', 'en', 'ies', 'th', 'est', 'es', 'ee'])
 
-# From NLTK
+# Stopword list from NLTK
 WHITELIST = set(['i', 'me', 'my', 'myself', 'we', 'our', 'ours', 'ourselves', 'you', 'your', 'yours',
                  'yourself', 'yourselves', 'he', 'him', 'his', 'himself', 'she', 'her', 'hers',
                  'herself', 'it', 'its', 'itself', 'they', 'them', 'their', 'theirs', 'themselves',
@@ -53,7 +51,7 @@ WHITELIST = set(['i', 'me', 'my', 'myself', 'we', 'our', 'ours', 'ourselves', 'y
                  'there', 'when', 'where', 'why', 'how', 'all', 'any', 'both', 'each', 'few', 'more',
                  'most', 'other', 'some', 'such', 'no', 'nor', 'not', 'only', 'own', 'same', 'so',
                  'than', 'too', 'very', 's', 't', 'can', 'will', 'just', 'don', 'should', 'now', 'us', 'am',
-                 'xylophone', 'xxx', 'xray', 'xactly'])
+                 ])
 
 
 
@@ -261,7 +259,8 @@ def run():
     charmap, revmap = util.map_all_chars(words)
     n_characters = len(charmap.keys())
 
-
+    # Create a collection of all the words in use so we can use this as a
+    # quick way to throw out generated non-words
     counts = collections.Counter([word.strip(punctuation).lower().strip() for word in words.split()])
 
     word_set = set()
@@ -285,17 +284,18 @@ def run():
             sent = " ".join(sent).capitalize()
             print(sent)
             sets[k].append(sent)
-    #
-    # for k in string.ascii_lowercase:
-    #      best_sent = sets[k][0]
-    #      max_prob = calc_word_prob(rnn, best_sent, revmap)
-    #      for sent in sets[k]:
-    #          prob = calc_word_prob(rnn, sent, revmap, average=True)
-    #          if prob > max_prob:
-    #              max_prob = prob
-    #              best_sent = sent
-    #
-    #      print(best_sent.replace(' .', '.'))  # Patch up the final period if it was joined funny
+
+    # For all generated sentences of a given letter, pick the "best" (highest average probability)
+    for k in string.ascii_lowercase:
+         best_sent = sets[k][0]
+         max_prob = calc_word_prob(rnn, best_sent, revmap)
+         for sent in sets[k]:
+             prob = calc_word_prob(rnn, sent, revmap, average=True)
+             if prob > max_prob:
+                 max_prob = prob
+                 best_sent = sent
+
+         print(best_sent.replace(' .', '.'))  # Patch up the final period if it was joined funny
 
 
 if __name__ == '__main__':

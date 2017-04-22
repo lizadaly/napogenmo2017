@@ -11,7 +11,6 @@ logging.basicConfig(level=logging.INFO)
 log = logging.getLogger()
 
 
-
 def random_training_set(chunks, revmap, volatile=False, start=0, batch_size=util.BATCH_SIZE):
     """Generate a training set from the randomized set of chunks (sequences),
     returning them in descending order by size (per Torch's variable length
