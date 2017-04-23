@@ -1,5 +1,5 @@
 # napogenmo2017
-Entry for National Poem Generation Month 2017
+Entry for <a href="https://github.com/NaPoGenMo/NaPoGenMo2017/">National Poem Generation Month 2017</a>
 
 Using PyTorch, I trained a recursive neural network character-by-character on a collection of 75 public domain naturalist guides and essays, and directed it to produce new sentences favoring one starting letter. The "final" poem below is a composite of several runs, with small edits applied to punctuation and a few stray words removed:
 
