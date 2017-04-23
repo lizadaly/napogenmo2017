@@ -28,7 +28,8 @@ many miles with more sharp mountains, and making more that the most moment may b
 No nation, nor new notes, now never needed, not noticed,  nor necessary near the nose of nature.
 <br/><br/>
 Occasionally an old olive on one of our own spring, observed only once, only over others,<br/>
-pressed plants perched pictures. Pale peaks pouring: the palm-trees that proved place placed performance, provided part pebbles and passes perfect; but perhaps principally preserve perpetual poets.
+pressed plants perched pictures. <br/>
+Pale peaks pouring: the palm-trees that proved place placed performance, provided part pebbles and passes perfect; but perhaps principally preserve perpetual poets.
 <br/><br/>
 Quickly, quieted, quite: and the birds resemble the system of quails but if they quest, we too but so with its question—<br/>
 River: of recognizing rivers, referring reflecting and returning (related to recognition) rolled round right roots.
