@@ -1,7 +1,7 @@
 # napogenmo2017
 Entry for <a href="https://github.com/NaPoGenMo/NaPoGenMo2017/">National Poem Generation Month 2017</a>
 
-Using PyTorch, I trained a recursive neural network character-by-character on a collection of 75 public domain naturalist guides and essays, and directed it to produce new sentences favoring one starting letter. The "final" poem below is a composite of several runs, with small edits applied to punctuation and a few stray words removed:
+Using PyTorch, I trained a recursive neural network character-by-character on a collection of 65 public domain naturalist guides and essays, and directed it to produce new sentences favoring one starting letter. The "final" poem below is a composite of several runs, with small edits applied to punctuation and a few stray words removed:
 
 ## No solitude in the caves of spring
 
@@ -157,7 +157,7 @@ Zoölogy, the streams of the same stream with and ,but it is on and as they were
 * <a href="https://www.gutenberg.org/ebooks/45084">Collecting and Preserving, by J. E. Taylor and 12 Other Authors</a>
 * <a href="https://www.gutenberg.org/ebooks/45708">Spring Notes from Tennessee, by Bradford Torrey.</a>
 * <a href="https://www.gutenberg.org/ebooks/46482">The Mentor: American Naturalists by Ernest Ingersoll</a>
-* <a href="https://www.gutenberg.org/ebooks/54566">Life in the Shifting Dunes, by Laurence B. White, Jr.</a>
+* <a href="https://www.gutenberg.org/ebooks/54566">Life in the Shifting Dunes, by Laurence B. White, Jr.>/a>
 * <a href="https://www.gutenberg.org/ebooks/6138">Life and Habit, by Samuel Butler</a>
 * <a href="https://www.gutenberg.org/ebooks/695">Glaucus, by Charles Kingsley</a>
 * <a href="https://www.gutenberg.org/ebooks/6981">The Open Air, by Richard Jefferies</a>
