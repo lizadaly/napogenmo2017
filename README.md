@@ -97,3 +97,72 @@ Zoölogy, the streams of the same stream with and ,but it is on and as they were
 </blockquote>
 
 (I do not know why it got so excited about elves.)
+
+# Source material
+
+<a href="https://www.gutenberg.org/ebooks/10513">On the Seashore, by R. Cadwallader Smith</a>
+<a href="https://www.gutenberg.org/ebooks/14108">In the Catskills, by John Burroughs, et al</a>
+<a href="https://www.gutenberg.org/ebooks/16116">Studies of Trees by J. J. Levison, M.F.</a>
+<a href="https://www.gutenberg.org/ebooks/18174">Some Winter Days in Iowa, by Frederick John Lazell</a>
+<a href="https://www.gutenberg.org/ebooks/18183">Trees, Fruits and Flowers of Minnesota, 1916, by Various</a>
+<a href="https://www.gutenberg.org/ebooks/18227">Some Spring Days In Iowa, by Frederick John Lazell</a>
+<a href="https://www.gutenberg.org/ebooks/18249">Some Summer Days in Iowa, by Frederick John Lazell</a>
+<a href="https://www.gutenberg.org/ebooks/18274">A Book of Natural History, by David Starr Jordan.</a>
+<a href="https://www.gutenberg.org/ebooks/18335">The Breath of Life, by John Burroughs.</a>
+<a href="https://www.gutenberg.org/ebooks/18359">The Story of My Boyhood and Youth, by John Muir</a>
+<a href="https://www.gutenberg.org/ebooks/18629">Nature Near London, by Richard Jefferies</a>
+<a href="https://www.gutenberg.org/ebooks/20467">Hand Book of the Trees of New England, by Lorin L Dame and Henry Brooks.</a>
+<a href="https://www.gutenberg.org/ebooks/22165">My Studio Neighbors, by William Hamilton Gibson.</a>
+<a href="https://www.gutenberg.org/ebooks/23667">Woodland Tales, by Ernest Thompson Seton.</a>
+<a href="https://www.gutenberg.org/ebooks/23742">Charley's Museum, by Unknown.</a>
+<a href="https://www.gutenberg.org/ebooks/23941">Country Walks of a Naturalist with His Children, by Rev. W. Houghton.</a>
+<a href="https://www.gutenberg.org/ebooks/2440">The Naturalist on the River Amazons by Henry Walter Bates</a>
+<a href="https://www.gutenberg.org/ebooks/24715">The Western World, by W.H.G. Kingston</a>
+<a href="https://www.gutenberg.org/ebooks/25973">Birds of the Rockies, by Leander Sylvester Keyser</a>
+<a href="https://www.gutenberg.org/ebooks/26009">Adventures of a Young Naturalist, by Lucien Biart.</a>
+<a href="https://www.gutenberg.org/ebooks/26076">Birds from Coahuila, Mexico, by Emil K. Urban</a>
+<a href="https://www.gutenberg.org/ebooks/26346">Our Bird Comrades, by Leander S. (Leander Sylvester) Keyser</a>
+<a href="https://www.gutenberg.org/ebooks/26516">The Log of the Sun, by William Beebe.</a>
+<a href="https://www.gutenberg.org/ebooks/27213">The Heart of Nature, by Sir Francis Younghusband</a>
+<a href="https://www.gutenberg.org/ebooks/29739">Little Masterpieces Of Science, The Naturalist as Interpreter and Seer, Edited by George Iles.</a>
+<a href="https://www.gutenberg.org/ebooks/30249">Ways of Nature, by John Burroughs.</a>
+<a href="https://www.gutenberg.org/ebooks/31250">Old Plymouth Trails, by Winthrop Packard.</a>
+<a href="https://www.gutenberg.org/ebooks/31292">A Year in the Fields, by John Burroughs.</a>
+<a href="https://www.gutenberg.org/ebooks/3163">Birds and Bees, by John Burroughs</a>
+<a href="https://www.gutenberg.org/ebooks/31708">The Pond, by Carl Ewald.</a>
+<a href="https://www.gutenberg.org/ebooks/31710">The Hills and the Vale, by Richard Jefferies; an eBook from Project Gutenberg</a>
+<a href="https://www.gutenberg.org/ebooks/33659">Mammals of Northwestern South Dakota, by Kenneth W. Andersen And J. Knox Jones, Jr..</a>
+<a href="https://www.gutenberg.org/ebooks/33994">Old Farm Fairies, A Summer Campaign in Brownieland Against King Cobweaver's Pixies, by Henry Christopher McCook.</a>
+<a href="https://www.gutenberg.org/ebooks/34353">The Forest Habitat Of The University Of Kansas Natural History Reservation, by Henry S. Fitch And Ronald L. McGregor.</a>
+<a href="https://www.gutenberg.org/ebooks/34450">The Nature Of Animal Light, by E. Newton Harvey.</a>
+<a href="https://www.gutenberg.org/ebooks/34554">Selected Records of Reptiles and Amphibians from Kansas, by John Breukelman and Hobart M. Smith.</a>
+<a href="https://www.gutenberg.org/ebooks/36844">In New England Fields And Woods, by Rowland E. Robinson.</a>
+<a href="https://www.gutenberg.org/ebooks/36949">Wild Life in a Southern County, by Richard Jefferies</a>
+<a href="https://www.gutenberg.org/ebooks/38066">The Adventures of a Grain of Dust, by Hallam Hawksworth.</a>
+<a href="https://www.gutenberg.org/ebooks/38954">Eye Spy, by William Hamilton Gibson.</a>
+<a href="https://www.gutenberg.org/ebooks/40919">Everyday Adventures, by Samuel Scoville, Jr.—A Project Gutenberg eBook.</a>
+<a href="https://www.gutenberg.org/ebooks/41278">Pastoral Days, by W. Hamilton Gibson.</a>
+<a href="https://www.gutenberg.org/ebooks/414">The Pageant of Summer</a>
+<a href="https://www.gutenberg.org/ebooks/42144">The Spring of the Year, by Dallas Lore Sharp—A Project Gutenberg eBook.</a>
+<a href="https://www.gutenberg.org/ebooks/42170">Summer, by Dallas Lore Sharp—A Project Gutenberg eBook.</a>
+<a href="https://www.gutenberg.org/ebooks/42199">Winter, by Dallas Lore Sharp</a>
+<a href="https://www.gutenberg.org/ebooks/42223">The Fall of the Year, by Dallas Lore Sharp—A Project Gutenberg eBook.</a>
+<a href="https://www.gutenberg.org/ebooks/42444">The Face of the Fields, by Dallas Lore Sharp—A Project Gutenberg eBook.</a>
+<a href="https://www.gutenberg.org/ebooks/42591">In the Open, by Stanton Davis Kirkham.</a>
+<a href="https://www.gutenberg.org/ebooks/42978">The Sea Shore, by W. S. Furneaux: a Project Gutenberg eBook.</a>
+<a href="https://www.gutenberg.org/ebooks/43396">The Desert World, by Arthur Mangin.</a>
+<a href="https://www.gutenberg.org/ebooks/43946">The Sea-beach at Ebb-tide, by Augusta Foote Arnold.</a>
+<a href="https://www.gutenberg.org/ebooks/44063">The Making of Species, by Douglas Dewar and Frank Finn</a>
+<a href="https://www.gutenberg.org/ebooks/44127">Fresh Fields, by John Burroughs</a>
+<a href="https://www.gutenberg.org/ebooks/45084">Collecting and Preserving, by J. E. Taylor and 12 Other Authors, a Project Gutenberg eBook.</a>
+<a href="https://www.gutenberg.org/ebooks/45708">Spring Notes from Tennessee, by Bradford Torrey.</a>
+<a href="https://www.gutenberg.org/ebooks/46482">The Mentor: American Naturalists by Ernest Ingersoll—a Project Gutenberg eBook.</a>
+<a href="https://www.gutenberg.org/ebooks/54566">Life in the Shifting Dunes, by Laurence B. White, Jr.: a Project Gutenberg eBook</a>
+<a href="https://www.gutenberg.org/ebooks/6138">Life and Habit, by Samuel Butler</a>
+<a href="https://www.gutenberg.org/ebooks/695">Glaucus, by Charles Kingsley</a>
+<a href="https://www.gutenberg.org/ebooks/6981">The Open Air, by Richard Jefferies</a>
+<a href="https://www.gutenberg.org/ebooks/7030">Richard Jefferies - Field and Hedgerow</a>
+<a href="https://www.gutenberg.org/ebooks/7345">Travels in Alaska by John Muir</a>
+<a href="https://www.gutenberg.org/ebooks/7353">Birds in Town and Village, by Hudson</a>
+<a href="https://www.gutenberg.org/ebooks/8682">The Naturalist on the Thames</a>
+<a href="https://www.gutenberg.org/ebooks/880">My Garden Acquaintance, by James Russell Lowell</a>
